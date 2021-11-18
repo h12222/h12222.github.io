@@ -402,7 +402,7 @@ header .follow a:hover{
     border-radius: .5rem;
 }
 
-.experience .box-container .box .content span{
+.internship .box-container .box .content span{
     color:#fff;
     font-size: 1.7rem;
     background:var(--main-color);
